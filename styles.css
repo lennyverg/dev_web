@@ -1,16 +1,23 @@
-main, h1{ padding: 1em;}
+main, h1{ 
+  padding: 1em;
+  
+
+}
 
 html{
   background-color: lightgray;
 }
 
+
 img{
   height: 10rem;
   width: auto;
+  border-radius: 30px;
+  box-shadow: 30px -5px;
 }
 
 main p{
-  background-color: gainsboro;
+  background-color: rgb(220, 220, 220);
 }
 
 main li{
@@ -21,4 +28,18 @@ main li{
 
 footer{
   border: thin solid black;
+}
+
+h1{
+  color:  orangered;
+}
+p{
+  color:  orangered 
+
+
+}
+
+
+ul {
+  list-style-type: none;
 }
