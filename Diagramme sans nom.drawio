@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T10:44:48.799Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="5NU7N59VnkTqZkLJbXMs" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T11:23:44.150Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="yVeI0IP36-NFXoDmKISQ" version="22.1.0" type="github">
   <diagram name="Page-1" id="2KGdTCurLZp-fvfbmm0f">
-    <mxGraphModel dx="474" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="PAqF7uCTHNYOKnFJ6fK8-2" value="ARTICLES" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="530" width="126" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="PAqF7uCTHNYOKnFJ6fK8-4" value="&lt;div&gt;PK num_ref&lt;/div&gt;&lt;div&gt;designationArt&lt;/div&gt;&lt;div&gt;quantitestockArt&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PAqF7uCTHNYOKnFJ6fK8-2">
+        <mxCell id="PAqF7uCTHNYOKnFJ6fK8-4" value="&lt;div&gt;PK num_art&lt;/div&gt;&lt;div&gt;designationArt&lt;/div&gt;&lt;div&gt;quantitestockArt&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PAqF7uCTHNYOKnFJ6fK8-2">
           <mxGeometry x="16" y="55" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PAqF7uCTHNYOKnFJ6fK8-6" value="POINT DISTRIBUTION" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
